@@ -1,6 +1,6 @@
 # A Machine Learning Framework with an Application to Predicting Customer Churn
 
-https://github.com/vinod812k2/Customer-Churn/blob/master/images/overall_framework.png
+![](images/overall_framework.png)
 
 This project demonstrates applying a 3 step general-purpose framework to solve problems with machine learning. The purpose of this 
 framework is to provide a scaffolding for rapidly developing machine learning solutions across industries and datasets.
